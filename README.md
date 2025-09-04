@@ -1,6 +1,6 @@
-#  Ilia
+#Ilia
 
-> I use Arch. I ship backends.
+> I use Arch btw. I ship backends.
 
 ---
 
