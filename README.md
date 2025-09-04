@@ -34,7 +34,7 @@ I specialize in designing and building scalable backend systems. My focus is on 
 ---
 
 ## 📫 Connect
-- **Email:** iliagoginashvili16@example.com  
+- **Email:** iliagoginashvili16@gmail.com  
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/ilia-goginashvili-066689305)  
 
 ---
