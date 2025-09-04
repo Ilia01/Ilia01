@@ -69,4 +69,9 @@ Target: small, fast, documented, test-covered
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilia01&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilia01&layout=compact&theme=tokyonight" height="150">
+</p>
+
 <sub>Badges/tools kept minimal. No noise. Code speaks.</sub>
