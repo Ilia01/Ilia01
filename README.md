@@ -1,41 +1,63 @@
-# Hi, I'm Ilia 👋
+#   Ilia
 
-🚀 **Backend Developer | Node.js (NestJS/Express) | Python Enthusiast**  
-
-I specialize in designing and building scalable backend systems. My focus is on writing clean, maintainable code and solving real-world problems with efficient server-side architectures.
+> I use Arch. I ship backends.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript (ES6+), TypeScript, Python  
-- **Backend Frameworks:** Node.js (Express, NestJS), Django  
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps & Cloud:** Docker, GitHub Actions, AWS (EC2, S3, RDS basics)  
-- **Other:** RESTful APIs, Authentication (JWT, OAuth2), Prisma ORM  
+## $ whoami
+Backend Developer — **Node.js (NestJS/Express)** · **TypeScript** · **Python**  
+Focus: **clean architecture**, **auth & security**, **PostgreSQL/Prisma**, **performance**.
 
 ---
 
-## 📌 Current Focus
-- Building a **production-ready backend project** (API-first, with auth, DB, caching, tests).  
-- Deepening expertise in **scalable system design**.  
-- Expanding knowledge of **cloud deployment** and observability.
+## $ cat tech-stack.txt
+- **Languages:** TypeScript, JavaScript, Python
+- **Backend:** NestJS, Express, Fastify (basics), Django
+- **Data:** PostgreSQL, Prisma, Redis, MongoDB
+- **Infra:** Docker, GitHub Actions, Nginx
+- **Ops:** REST API design, JWT/HttpOnly cookies, RBAC, caching, pagination
 
 ---
 
-## 🌟 Featured Project (coming soon)
-📂 `production-ready-backend` – A full-stack ready API boilerplate with authentication, role-based access, PostgreSQL, Redis caching, Dockerized for easy deployment.  
-*Currently in development — repo will go public soon.*
+## $ neofetch --current
+Host: GitHub  
+Kernel: Linux (Arch)  
+DE: i3 / sway (depends on the day)  
+Now: building a **production-ready backend** with auth, roles, Prisma, tests, CI, and a minimal React client.
+Status: WIP → going public soon
+Target: small, fast, documented, test-covered
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilia01&show_icons=true&theme=tokyonight)
+## $ ls -l ./featured
+📦 **production-ready-backend** — API-first NestJS service  
+- Auth: JWT (HttpOnly cookies), refresh flow  
+- Models: Users, Roles, Sessions, AuditLog  
+- Tooling: Prisma, Zod DTOs, ESLint/Prettier, Jest + Supertest  
+- Ops: Docker, GitHub Actions (test/lint), seed scripts  
+- Docs: OpenAPI (Swagger) + concise README
+
+➡️ Repo: _publishing soon_; demo screenshots will be pinned here.
 
 ---
 
-## 📫 Connect
-- **Email:** iliagoginashvili16@gmail.com  
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/ilia-goginashvili-066689305)  
+## $ tail -f goals.log
+- Ship one high-quality public repo (backend first, frontend minimal).
+- Prioritize **correctness, observability, and docs** over flash.
+- Keep configs reproducible (Docker) and predictable (scripts).
 
 ---
-💡 Always learning, always building. Next goal: becoming an expert backend engineer.
+
+## $ ./connect.sh
+- Email: iliagoginashvili16@gmail.com
+- LinkedIn: [LinkedIn](www.linkedin.com/in/ilia-goginashvili-066689305)
+- CV: available on request
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilia01&show_icons=true&hide_title=true&hide_rank=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilia01&layout=compact" height="150" />
+</p>
+
+<sub>Badges/tools kept minimal. No noise. Code speaks.</sub>
