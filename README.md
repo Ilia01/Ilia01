@@ -43,15 +43,18 @@ Target: small, fast, documented, test-covered
 ---
 
 ## $ ls -l ./featured
-📦 **production-ready-backend** — API-first NestJS service  
+📦 **world-simulation** — artificial life engine in Python  
+- 🧬 Agents with traits, mutation, natural selection  
+- 📊 Real-time dashboards (Streamlit + Rich CLI)  
+- 🏗️ Clean package layout, logging, extensible behaviors  
+➡️ Repo: [World_Simulation](https://github.com/Ilia01/World-Simulation)
 
+📦 **production-ready-backend** — API-first NestJS service (WIP)  
 - 🔐 Auth: JWT (HttpOnly cookies), refresh flow  
 - 🗄️ Models: Users, Roles, Sessions, AuditLog  
 - 🛠️ Tooling: Prisma, Zod DTOs, ESLint/Prettier, Jest + Supertest  
 - ⚙️ Ops: Docker, GitHub Actions (test/lint), seed scripts  
-- 📄 Docs: OpenAPI (Swagger) + concise README  
-
-➡️ Repo: _publishing soon_; demo screenshots will be pinned here.
+➡️ Repo: publishing soon; demo screenshots will be pinned here
 
 ---
 
