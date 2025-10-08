@@ -10,8 +10,6 @@ Focus: **clean architecture**, **auth & security**, **PostgreSQL/Prisma**, **per
 
 ---
 
----
-
 ## $ ./connect.sh
 - 📧 Email: iliagoginashvili16@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/ilia-goginashvili-066689305](https://www.linkedin.com/in/ilia-goginashvili-066689305)  
