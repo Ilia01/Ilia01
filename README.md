@@ -10,6 +10,15 @@ Focus: **clean architecture**, **auth & security**, **PostgreSQL/Prisma**, **per
 
 ---
 
+---
+
+## $ ./connect.sh
+- 📧 Email: iliagoginashvili16@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/ilia-goginashvili-066689305](https://www.linkedin.com/in/ilia-goginashvili-066689305)  
+- 📄 CV: available on request  
+
+---
+
 ## $ cat tech-stack.txt
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -63,12 +72,4 @@ Target: small, fast, documented, test-covered
 - Prioritize **correctness, observability, docs** over flash  
 - Keep configs reproducible (Docker) and predictable (scripts)  
 
----
-
-## $ ./connect.sh
-- 📧 Email: iliagoginashvili16@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/ilia-goginashvili-066689305](https://www.linkedin.com/in/ilia-goginashvili-066689305)  
-- 📄 CV: available on request  
-
----
 <sub>Badges/tools kept minimal. No noise. Code speaks.</sub>
