@@ -1,6 +1,6 @@
 #  Hello, World!
 
-> I use Arch btw. I ship backends.
+> I use Arch btw. I ship backends — and sometimes, the tools that document them.
 
 ---
 
@@ -39,29 +39,48 @@ Focus: **clean architecture**, **auth & security**, **PostgreSQL/Prisma**, **per
 
 ---
 
-## $ neofetch --current
-Host: GitHub  
-Kernel: Linux (Arch)  
-DE: i3 / sway (depends on the day)  
-Now: building a **production-ready backend** with auth, roles, Prisma, tests, CI, minimal React client  
-Status: WIP → going public soon  
-Target: small, fast, documented, test-covered  
+## $ ls -l ./featured
+
+📦 **api-doc-generator (ApiFlow)** — Python static site generator for OpenAPI specs  
+> *Built first — a tool for generating versioned, offline API documentation from OpenAPI specs.*
+
+- 📄 Converts `.yaml` → interactive static HTML  
+- 🧭 Supports Markdown, syntax highlighting, fuzzy search  
+- 🧩 Version management with changelogs (new/deprecated endpoints)  
+- ⚙️ No server required — works offline  
+- 💡 Used later to document the `task-management-api` project  
+
+<p align="center">
+  <img src="https://github.com/Ilia01/Ilia01/blob/main/Screenshot%202025-10-13%20at%2012.33.25.jpg" width="45%"/>  
+  <img src="https://github.com/Ilia01/Ilia01/blob/main/Screenshot%202025-10-13%20at%2012.33.39.jpg" width="45%"/>
+</p>
+
+➡️ Repo: [ApiFlow](https://github.com/Ilia01/apiflow)
 
 ---
 
-## $ ls -l ./featured
+📦 **task-management-api** — Node.js REST API with SOLID, Design Patterns, and OpenAPI docs  
+> *Built as a conceptual project to demonstrate API design, JS fundamentals, and ApiFlow integration.*
+
+- 🧩 Demonstrates: Closures, Async/Await, EventEmitter, Middleware  
+- 🧱 SOLID + Strategy, Factory, Observer patterns  
+- 🧮 Endpoints for tasks, stats, and health  
+- 🧭 OpenAPI spec exported → documented through ApiFlow  
+- 🧠 Focus: learning-by-doing for interview prep  
+
+<p align="center">
+  <img src="https://github.com/Ilia01/Ilia01/blob/main/Screenshot%202025-10-13%20at%2012.32.38.jpg" width="45%"/>
+</p>
+
+➡️ Repo: *(coming soon / private until interview)*  
+
+---
+
 📦 **world-simulation** — artificial life engine in Python  
 - 🧬 Agents with traits, mutation, natural selection  
 - 📊 Real-time dashboards (Streamlit + Rich CLI)  
 - 🏗️ Clean package layout, logging, extensible behaviors  
 ➡️ Repo: [World_Simulation](https://github.com/Ilia01/World-Simulation)
-
-📦 **production-ready-backend** — API-first NestJS service (WIP)  
-- 🔐 Auth: JWT (HttpOnly cookies), refresh flow  
-- 🗄️ Models: Users, Roles, Sessions, AuditLog  
-- 🛠️ Tooling: Prisma, Zod DTOs, ESLint/Prettier, Jest + Supertest  
-- ⚙️ Ops: Docker, GitHub Actions (test/lint), seed scripts  
-➡️ Repo: publishing soon; demo screenshots will be pinned here
 
 ---
 
@@ -70,4 +89,4 @@ Target: small, fast, documented, test-covered
 - Prioritize **correctness, observability, docs** over flash  
 - Keep configs reproducible (Docker) and predictable (scripts)  
 
-<sub>Badges/tools kept minimal. No noise. Code speaks.</sub>
+<sub>Tools minimal. Docs automated. Code speaks.</sub>
