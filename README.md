@@ -72,7 +72,7 @@ Focus: **clean architecture**, **auth & security**, **PostgreSQL/Prisma**, **per
   <img src="https://github.com/Ilia01/Ilia01/blob/main/Screenshot%202025-10-13%20at%2012.32.38.jpg" width="45%"/>
 </p>
 
-➡️ Repo: *(coming soon / private until interview)*  
+➡️ Repo: [API](https://github.com/Ilia01/Task-Management-API-Demo)  
 
 ---
 
