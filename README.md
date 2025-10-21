@@ -11,9 +11,9 @@ Backend developer focused on clean architecture, security, and scalable systems.
 
 ## 🛠️ Tech Stack
 
-**Backend:** TypeScript, Node.js, NestJS, Express
-**Data:** PostgreSQL, Prisma, Redis, MongoDB
-**Tools:** Docker, GitHub Actions, Nginx
+- **Backend:** TypeScript, Node.js, NestJS, Express
+- **Data:** PostgreSQL, Prisma, Redis, MongoDB
+- **Tools:** Docker, GitHub Actions, Nginx
 
 ## 📝 Recent Posts
 
@@ -27,9 +27,9 @@ Check out my [blog](https://portfolio-omega-blue-h6y7hfd5nu.vercel.app/blog) for
 
 ## 📦 Featured Projects
 
-**[Aegis2FA](https://github.com/Ilia01/aegis2fa)** - Secure 2FA authentication system with JWT + TOTP
-**[ApiFlow](https://github.com/Ilia01/apiflow)** - Python static site generator for OpenAPI specs
-**[Task Management API](https://github.com/Ilia01/Task-Management-API-Demo)** - REST API demonstrating SOLID principles
+- **[Aegis2FA](https://github.com/Ilia01/aegis2fa)** - Secure 2FA authentication system with JWT + TOTP
+- **[ApiFlow](https://github.com/Ilia01/apiflow)** - Python static site generator for OpenAPI specs
+- **[Task Management API](https://github.com/Ilia01/Task-Management-API-Demo)** - REST API demonstrating SOLID principles
 
 ---
 
