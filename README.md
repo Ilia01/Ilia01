@@ -4,8 +4,8 @@ Backend developer focused on clean architecture, security, and scalable systems.
 
 ## 🔗 Links
 
-- **Portfolio:** [portfolio](https://portfolio-omega-blue-h6y7hfd5nu.vercel.app)
-- **Blog:** [portfolio/blog](https://portfolio-omega-blue-h6y7hfd5nu.vercel.app)
+- **Portfolio:** [portfolio](https://www.iliagoginashvili.com)
+- **Blog:** [portfolio/blog](https://www.iliagoginashvili.com/blog)
 - **LinkedIn:** [linkedin.com/in/ilia-goginashvili-066689305](https://www.linkedin.com/in/ilia-goginashvili-066689305)
 - **Email:** iliagoginashvili16@gmail.com
 
@@ -17,7 +17,7 @@ Backend developer focused on clean architecture, security, and scalable systems.
 
 ## 📝 Recent Posts
 
-Check out my [blog](https://portfolio-omega-blue-h6y7hfd5nu.vercel.app/blog) for technical writing on:
+Check out my [blog](https://www.iliagoginashvili.com/blog) for technical writing on:
 - JWT authentication & refresh tokens
 - TOTP implementation
 - Rate limiting strategies
