@@ -4,4 +4,4 @@ Backend engineer. I build tools I'd actually use, then spend twice as long refac
 
 I sometimes write about it on my [blog](https://www.iliagoginashvili.com/blog).
 
-Currently working on [Beacon](https://github.com/Ilia01/Beacon) -- a context-aware coaching overlay for League of Legends.
+Currently working on projects and mastering my craft.
